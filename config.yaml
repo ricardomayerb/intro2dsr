@@ -37,7 +37,7 @@ params:
     - icon: fas fa-envelope
       title: e-mail
       url: mailto:cien@mail.udp.cl
-  title: DS con R
+  title: Data Science con R
 menu:
   main:
     - identifier: home
