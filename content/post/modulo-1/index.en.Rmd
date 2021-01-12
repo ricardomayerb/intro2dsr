@@ -1,0 +1,19 @@
+---
+title: 1 - Introducción a R y RStudio
+author: ricardo mayer
+date: '2021-01-11'
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+weight: 10
+---
+
+# hola 1
+
+## hola 2
+
+texto

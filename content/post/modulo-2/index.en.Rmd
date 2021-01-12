@@ -1,0 +1,20 @@
+---
+title: 2 - Manipulación de datos
+author: ricardo mayer
+date: '2021-01-11'
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+weight: 20
+---
+
+# hello 1
+
+## hello 2
+
+text
+

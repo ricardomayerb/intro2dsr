@@ -1,0 +1,13 @@
+---
+title: 5 - Proyecto final de DS con R
+author: Ricardo Mayer
+date: '2021-01-12'
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+weight: 50
+---

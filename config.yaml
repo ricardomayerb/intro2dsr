@@ -1,0 +1,63 @@
+baseURL: "/"
+languageCode: en
+DefaultContentLanguage: en
+title: Intro2dsr
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+params:
+  author: DSSS
+  customCss: []
+  customJs: []
+  description: Curso introductorio del DSSS
+  doNotLoadAnimations: no
+  favicon: favicons/
+  images: images/site-feature-image.png
+  keywords: ''
+  mainSections: post
+  math:
+    enable: no
+    use: katex
+  profilePicture: images/profile.png
+  simpleAnalytics: {}
+  socialIcons:
+    - icon: fab fa-linkedin
+      title: Linkedin
+      url: https://de.linkedin.com/
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/ricardomayerb/intro2dsr/
+    - icon: fab fa-instagram
+      title: instagram
+      url: https://www.instagram.com/
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:cien@mail.udp.cl
+  title: DS con R
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 100
+    # - identifier: posts
+    #   name: Posts
+    #   url: /post/
+    #   weight: 200
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 200
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 300
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
